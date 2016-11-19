@@ -51,6 +51,8 @@ public class ItemServiceTest
    public void should_be_deployed()
    {
       Assert.assertNotNull(itemservice);
+      //editado esto
+      AssertTrue(false);
    }
 
    @Test
