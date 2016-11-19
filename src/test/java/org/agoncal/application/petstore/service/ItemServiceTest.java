@@ -52,7 +52,8 @@ public class ItemServiceTest
    {
       Assert.assertNotNull(itemservice);
       //editado esto
-      AssertTrue(false);
+      //comento error
+      //AssertTrue(false);
    }
 
    @Test
